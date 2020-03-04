@@ -1,3 +1,9 @@
 import React from "react"
+import Particles from 'react-particles-js';
 
-export default () => <div>Hello world!</div>
+export default () => {
+
+    return (
+        <div><Particles /></div>
+    )
+}
