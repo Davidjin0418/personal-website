@@ -9,7 +9,7 @@ paginate = 7
 # page of your blog.
 [author]
 name = "Hi, I'm David🇨🇳🇳🇿"
-slogon = "An experienced software engineer interested in distributed systems, computer graphics, functional programming, and iOS development."
+slogon = "Software engineer interested in distributed systems and computer graphics."
 
 [params]
 # iam is the beginning words of your self-introduction.
